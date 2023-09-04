@@ -1,0 +1,17 @@
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\bin\Debug\netcoreapp3.1\RabbitMQ_FirstProject.exe
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\bin\Debug\netcoreapp3.1\RabbitMQ_FirstProject.deps.json
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\bin\Debug\netcoreapp3.1\RabbitMQ_FirstProject.runtimeconfig.json
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\bin\Debug\netcoreapp3.1\RabbitMQ_FirstProject.runtimeconfig.dev.json
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\bin\Debug\netcoreapp3.1\RabbitMQ_FirstProject.dll
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\bin\Debug\netcoreapp3.1\RabbitMQ_FirstProject.pdb
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\obj\Debug\netcoreapp3.1\RabbitMQ_FirstProject.csproj.AssemblyReference.cache
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\obj\Debug\netcoreapp3.1\RabbitMQ_FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\obj\Debug\netcoreapp3.1\RabbitMQ_FirstProject.AssemblyInfoInputs.cache
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\obj\Debug\netcoreapp3.1\RabbitMQ_FirstProject.AssemblyInfo.cs
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\obj\Debug\netcoreapp3.1\RabbitMQ_FirstProject.csproj.CoreCompileInputs.cache
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\obj\Debug\netcoreapp3.1\RabbitMQ_FirstProject.csproj.CopyComplete
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\obj\Debug\netcoreapp3.1\RabbitMQ_FirstProject.dll
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\obj\Debug\netcoreapp3.1\RabbitMQ_FirstProject.pdb
+C:\gitlab\RabbitMQ_FirstProject\RabbitMQ_FirstProject\RabbitMQ_FirstProject\obj\Debug\netcoreapp3.1\RabbitMQ_FirstProject.genruntimeconfig.cache

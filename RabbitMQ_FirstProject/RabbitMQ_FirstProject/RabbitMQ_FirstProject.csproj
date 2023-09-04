@@ -4,13 +4,12 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="RabbitMQ.Client" Version="6.1.0" />
-  </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
     <Folder Include="Publishers\" />
     <Folder Include="Consumers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="RabbitMQ.Client" Version="6.5.0" />
   </ItemGroup>
 </Project>
