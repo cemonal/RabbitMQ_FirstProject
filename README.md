@@ -44,10 +44,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 3. Make your changes and test them thoroughly.
 4. Open a pull request to submit your changes.
 
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
-
 ---
 
 Feel free to explore, learn, and adapt the code in this project to your own needs. If you have any questions or suggestions, please don't hesitate to reach out. Happy coding!
